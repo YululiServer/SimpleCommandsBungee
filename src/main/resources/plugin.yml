@@ -1,0 +1,13 @@
+name: SimpleCommandsBungee
+main: xyz.acrylicstyle.scBungee.SimpleCommandsBungee
+version: "1.0"
+author: acrylic-style
+commands:
+  ping:
+    description: ""
+  pingall:
+    description: ""
+  scalert:
+    description: ""
+  tlbungee:
+    description: ""
